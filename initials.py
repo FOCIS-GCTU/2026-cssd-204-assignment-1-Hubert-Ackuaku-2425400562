@@ -10,13 +10,13 @@
 # On my honor, Hubert Ackuaku, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
+
 def main():
-    #Printing my initial
-    print("")
+    #Printing my initials
     print("")
     print("...DHA")
     print("");
-    print("");
+    #Printing my initials
     print("...DDDDDDD.............HHHH....HHHH.............AA..........")
     print("...DDD..DDD............HHHH....HHHH............AAAA.........")
     print("...DDD...DDD...........HHHH....HHHH...........AA..AA........")
@@ -27,6 +27,6 @@ def main():
     print("...DDD....DDD..........HHHH....HHHH........AAA......AAA.....")
     print("...DDD...DDD......**...HHHH....HHHH...**...AAA......AAA...**")
     print("...DDDDDDDD.......**...HHHH....HHHH...**...AAA......AAA...**")
-
-
+    print("")
+    print("")
 main()
